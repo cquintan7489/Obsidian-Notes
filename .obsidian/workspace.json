@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "5b7fb756240bdcd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "191b2af61c3cffae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41cb937938460246",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "236cf8c40f3e932a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PMBA Book Notes/PMBA - Finance/PMBA - Finance - Income Statement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87a17a487e2e17ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3e5f9c512b05012",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80218af44918ad9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "9f2af10fe1fe1ef0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "014c4796b105052e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce8d061cffe266fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "866724795604e342",
+    "type": "split",
+    "children": [
+      {
+        "id": "92a1d238006e4234",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ae8fdc7ee28eeb6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PMBA Book Notes/PMBA - Finance/PMBA - Finance - Income Statement.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60a827b2c8875ffe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PMBA Book Notes/PMBA - Finance/PMBA - Finance - Income Statement.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "372dcd99ce03e306",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "82e85b7174e69a8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PMBA Book Notes/PMBA - Finance/PMBA - Finance - Income Statement.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "80218af44918ad9f",
+  "lastOpenFiles": [
+    "PMBA Book Notes/PMBA - Finance/PMBA - Finance - Valuation.md",
+    "PMBA Book Notes/PMBA - Finance/PMBA - Finance - Profit.md",
+    "PMBA Book Notes/PMBA - Finance/PMBA - Finance - Sufficiency.md",
+    "PMBA Book Notes/PMBA - Finance/PMBA - Finance - Profit Margin.md",
+    "Zettelkasten/ECB says bitcoin is on ‘road to irrelevance’ amid crypto collapse.md",
+    "Zettelkasten/Spanish - The Indirect Object.md",
+    "Zettelkasten/Crime and Punishment - Part I.md",
+    "Templates/Core Zettel Idea.md",
+    "Books/Strategy - A History.md",
+    "PMBA Book Notes/PMBA - Finance/PMBA - Finance - Income Statement.md",
+    "PMBA Book Notes/PMBA - Finance/PMBA - Finance - Value Capture.md",
+    "PMBA Book Notes/PMBA - Finance/PMBA - Finance - Financial Ratios.md",
+    "PMBA Book Notes/PMBA - Finance/PMBA - Finance - Cash Flow Statement.md",
+    "PMBA Book Notes/PMBA - Finance/PMBA - Finance - Balance Sheet.md",
+    "PMBA Book Notes/PMBA - Finance",
+    "PMBA Book Notes",
+    "Untitled.canvas",
+    "Zettelkasten/Strategy - A History.md",
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/Politics.md",
+    "Books",
+    "Zettelkasten/Biden welcomes Macron amid friction over US climate law.md",
+    "Zettelkasten/Cryptocurrency.md",
+    "Zettelkasten/Beyond Persuasion.md",
+    "Zettelkasten/Spanish - The Direct Object.md",
+    "Zettelkasten/Spanish - Reflexive Verbs.md",
+    "Zettelkasten/Spanish - The Present Subjunctive.md",
+    "Untitled 1.canvas",
+    "Zettelkasten/September 2022 - Mar 2023 Bulk.md"
+  ]
+}
